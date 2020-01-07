@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mormo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mormo\\.nuget\\packages"
+    ]
+  }
+}
